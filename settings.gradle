@@ -1,0 +1,5 @@
+rootProject.name = "practice5uskov"
+include ':app'
+include ':accelerometer'
+include ':camera'
+include ':audiorecord'
